@@ -1,0 +1,27 @@
+.section-about {
+    width: 1140px;
+    display: flex;
+    justify-content: space-around;
+}
+.background {
+    margin: 0 15px;
+    width: 555px;
+    height: 296px;
+    background: linear-gradient(90deg, rgba(0,139,240,1) 0%, rgba(217,67,201,1) 100%);
+    display: inline-block;
+}
+.right-part__img{
+
+}
+.left-part-text__subtitle {
+    /* font-family: Hind Siliguri; */
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.left-box-text{
+ 
+}
